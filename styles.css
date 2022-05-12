@@ -1,0 +1,75 @@
+#message{
+    font-size: 50px;
+    background-color: #ff3333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1{
+    font-size: 66px;
+    background-color: #ff3333;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+body{
+    background-color: #ff3333;
+}
+
+.input{
+    font-size: 25px;
+    background-color: #ff3333;
+    border: 5px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#one{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+#two{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+#three{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+#four{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+#five{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+#six{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+#seven{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+#eight{
+    background-color: #ff1a1a;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid black;
+}
+
